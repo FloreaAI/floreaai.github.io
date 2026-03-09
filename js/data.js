@@ -113,9 +113,33 @@ const teamMembers = [
         education: "B.A. in Mathematics from the University of California, San Diego",
         publications: "Chessformer: a Unified Architecture for Chess Modeling (ICLR 2026)"
     },
+         {
+        id: "member8",
+        name: "Renée Andrea Sirbu",
+        role: "Ph.D. Student",
+        department: "Philosophy",
+        image: "images/team/Renée Andrea Sirbu.jpg",
+        email: "",
+        bio: "Renée Andrea Sirbu is a Ph.D. student at the Institute for the History and Philosophy of Science and Technology (IHPST). Renée received her B.Sc. in Human Biology, Bioethics, and Philosophy at UofT and her M.P.H. in Health Policy and Public Health Modeling from Yale, before spending two years as a predoctoral researcher at Yale's Digital Ethics Center. Her research explores the intersection of mortality and digital technology, focusing on human-computer interaction, brain-computer interfaces, and AI in clinical settings.",
+        education: "B.Sc. in Human Biology, Bioethics, and Philosophy from the University of Toronto | M.P.H. in Health Policy and Public Health Modeling from Yale University",
+        research: "Intersection of mortality and digital technology, human-computer interaction, brain-computer interfaces, AI in clinical settings",
+        publications: "Research on digtal decision support systems in population health, ethics of brain-computer interfaces, and AI governance"
+    },
+        {
+        id: "member9",
+        name: "Pooyan Ehsani",
+        role: "Ph.D. Student",
+        department: "Computer Science",
+        image: "images/team/Pooyan Ehsani.jpg",
+        email: "",
+        bio: "Pooyan Ehsani is currently pursuing a Master's degree at the Institute for the History and Philosophy of Science and Technology (IHPST). His main areas of interest are AI ethics, ethical design, and the ethical implications of AI. With experience as a machine learning engineer, Pooyan aims to focus on the problem of human autonomy within AI systems.",
+        education: "",
+        research: "AI ethics, ethical design, the ethical implications of AI",
+        publications: "Research on machine learning and optimization",
+    },
     // Research Staff
     {
-        id: "member8",
+        id: "member10",
         name: "Hillary Merzdorf",
         role: "Grant Manager",
         department: "Research Operations",
@@ -127,7 +151,7 @@ const teamMembers = [
         publications: "Research on educational technology and assessment development"
     },
     {
-        id: "member9",
+        id: "member11",
         name: "Rediet Shiferahu",
         role: "Communications Specialist",
         department: "Communications & Research",
