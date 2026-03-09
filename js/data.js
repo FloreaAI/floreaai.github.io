@@ -123,7 +123,7 @@ const teamMembers = [
         bio: "Renée Andrea Sirbu is a Ph.D. student at the Institute for the History and Philosophy of Science and Technology (IHPST). Renée received her B.Sc. in Human Biology, Bioethics, and Philosophy at UofT and her M.P.H. in Health Policy and Public Health Modeling from Yale, before spending two years as a predoctoral researcher at Yale's Digital Ethics Center. Her research explores the intersection of mortality and digital technology, focusing on human-computer interaction, brain-computer interfaces, and AI in clinical settings.",
         education: "B.Sc. in Human Biology, Bioethics, and Philosophy from the University of Toronto | M.P.H. in Health Policy and Public Health Modeling from Yale University",
         research: "Intersection of mortality and digital technology, human-computer interaction, brain-computer interfaces, AI in clinical settings",
-        publications: "Research on digtal decision support systems in population health, ethics of brain-computer interfaces, and AI governance"
+        publications: "Research on AI and machine learning, tech ethics, data ethics, health policy, and bioethics"
     },
         {
         id: "member9",
