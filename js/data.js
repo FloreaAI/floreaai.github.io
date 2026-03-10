@@ -129,7 +129,7 @@ const teamMembers = [
         id: "member9",
         name: "Pooyan Ehsani",
         role: "Ph.D. Student",
-        department: "Computer Science",
+        department: "Philosophy",
         image: "images/team/Pooyan Ehsani.jpg",
         email: "pooyan.ehsani@mail.utoronto.ca",
         bio: "Pooyan Ehsani is currently pursuing a Master's degree at the Institute for the History and Philosophy of Science and Technology (IHPST). His main areas of interest are AI ethics, ethical design, and the ethical implications of AI. With experience as a machine learning engineer, Pooyan aims to focus on the problem of human autonomy within AI systems.",
