@@ -376,7 +376,6 @@ const blogPosts = [
         category: "Psychology",
         excerpt: "Artificial intelligence is now part of our everyday lives. It answers our questions, offers advice, provides emotional support, and shapes how we learn, work, and handle stress. But a deeper question is beginning to emerge: How do these technologies shape the kinds of people we become over time?",
         content: `
-              <h3>AI Beyond Efficiency: Why Flourishing Matters</h3>
 
         <p>Artificial intelligence is now part of our everyday lives.</p>
 
