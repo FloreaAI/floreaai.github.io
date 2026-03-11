@@ -378,8 +378,6 @@ const blogPosts = [
         content: `
               <h3>AI Beyond Efficiency: Why Flourishing Matters</h3>
 
-        <img src="images/blog/Picture1.png" alt="AI and character virtues illustration" style="width:100%; margin: 20px 0;" />
-
         <p>Artificial intelligence is now part of our everyday lives.</p>
 
         <p>It answers our questions, offers advice, provides emotional support, and shapes how we learn, work, and handle stress. As conversational AI systems become more personal and more present, discussions about their ethical design have expanded beyond concerns about bias, privacy, or accuracy. But a deeper question is beginning to emerge:</p>
