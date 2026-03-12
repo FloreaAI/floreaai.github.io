@@ -465,7 +465,7 @@ const blogPosts = [
         id: "post3",
         title: "When AI Enters Our Most Intimate Spaces",
         author: "Rediet Shiferahu",
-        date: "3/11/2026",
+        date: "3/12/2026",
         category: "Psychology",
         excerpt: "Artificial intelligence is no longer confined to productivity tools or information retrieval. It is moving into something far more personal: our emotional lives, our relationships, and increasingly, our most intimate spaces. This shift raises questions that are not only technological, but deeply human.",
         content: `
