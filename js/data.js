@@ -88,6 +88,18 @@ const teamMembers = [
         education: "Ph.D. in Philosophy from McGill University | MPhil from King's College London | M.A. from Trent University",
         publications: "Research on AI safety and human-AI interaction"
     },
+    {
+    id: "member6a",
+    name: "Jinsoo Choi",
+    role: "Postdoctoral Research Associate",
+    department: "Industrial-Organizational Psychology",
+    image: "images/team/jinsoo.png",
+    email: "jinsooc2@illinois.edu",
+    bio: "Jinsoo Choi is a Postdoctoral Research Associate in the WAM Lab at Purdue University. He earned his PhD in Industrial-Organizational Psychology from the University of Illinois Urbana-Champaign, with a minor in Quantitative Psychology. His research encompasses personnel selection, advanced research methods, and well-being. In the domain of personnel selection, he focuses on the rigorous development and validation of pre-employment tools, including cognitive and personality tests, and explores fake-resistant measures such as forced-choice formats to mitigate impression management in high-stakes situations. He also applies multi-objective optimization techniques to address the validity-fairness dilemma. Methodologically, his work integrates artificial intelligence into general psychology and selection processes, utilizing AI conversational agents to promote long-term human flourishing through character virtues. Additionally, he develops structural equation modeling techniques to examine hierarchical psychological constructs and resolve related statistical issues. Ultimately, his research is driven by the goal of enhancing subjective well-being, aiming to help individuals flourish by improving life/job satisfaction and making life/work feel more meaningful.",
+    research: "Personnel selection, assessment and fairness, structural equation modeling, AI/ML in psychology, well-being, life/job satisfaction, meaningfulness",
+    education: "Ph.D. in Industrial-Organizational Psychology from the University of Illinois Urbana-Champaign (2026) | Minor in Quantitative Psychology",
+    publications: "Research published in Psychological Methods, Structural Equation Modeling: A Multidisciplinary Journal, Assessment, and Personality and Individual Differences"
+},
     // Graduate Students
     {
         id: "member6",
