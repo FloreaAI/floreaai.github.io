@@ -100,6 +100,18 @@ const teamMembers = [
     education: "Ph.D. in Industrial-Organizational Psychology from the University of Illinois Urbana-Champaign (2026) | Minor in Quantitative Psychology",
     publications: "Research published in Psychological Methods, Structural Equation Modeling: A Multidisciplinary Journal, Assessment, and Personality and Individual Differences"
 },
+{
+        id: "member6b",
+        name: "Lauren Moran",
+        role: "Postdoctoral Research Associate",
+        department: "Industrial-Organizational Psychology",
+        image: "images/team/Lauren.png",
+        email: "lmoran9@gatech.edu",
+        bio: "Lauren Moran is an incoming postdoctoral research associate in the WAM Lab at Purdue University. At present, she is wrapping up her PhD in Industrial-Organizational (I-O) Psychology at the Georgia Institute of Technology. She also holds an M.S. in I-O psychology from Georgia Institute of Technology and a B.S. in Psychology from Florida State University. Her research has centered on worker health and well-being, spanning topics such as recovery from work, employee benefits, and commuting experiences. Over the last few years, she has increasingly considered the ways in which emerging technologies affect worker experiences, including projects on the integration of AI teammates into mental healthcare, and the use of AI for job crafting. Throughout her research, she enjoys leveraging a variety of mixed-methods approaches to uncover how to best support workers' flourishing.",
+        research: "Worker health and well-being, AI teammates, team membership dynamics",
+        education: "Ph.D. in Industrial-Organizational Psychology from Georgia Institute of Technology | M.S. in I-O Psychology from Georgia Institute of Technology | B.S. in Psychology from Florida State University",
+        publications: ""
+    },
     // Graduate Students
     {
         id: "member6",
