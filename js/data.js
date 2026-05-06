@@ -205,8 +205,18 @@ const publications = [
         doiLink: "https://www.nature.com/articles/s41562-018-0307-6",
         featured: true
     },
+    { id: "pub2",
+        title: "When AI Gives Advice: Evaluating AI and Human Responses to Online Advice-Seeking for Well-Being",
+        authors: "Harsh Kumar, Jasmine Chahal, Yinuo Zhao, Zeling Zhang, Annika Z Wei, Louis Tay, and Ashton Anderson",
+        year: 2026,
+        journal: "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+        abstract:"Seeking advice is a core human behavior that the internet has reinvented twice: first through forums and Q&A communities that crowdsource public guidance, and now through large language models (LLMs). Yet the quality of this LLM advice for everyday well-being scenarios remains unclear. How does it compare, not only against human comments, but against the wisdom of the online crowd? We ran two studies (N=210) in which experts compared top-voted Reddit advice with LLM-generated advice. LLMs ranked significantly higher overall and on effectiveness, warmth, and willingness to seek advice again. GPT-4o beat GPT-5 on all metrics except sycophancy, suggesting that benchmark gains need not improve advice-giving. In Study-2, we examined how human and algorithmic advice could be combined, and found that human advice can be unobtrusively polished to compete with AI-generated comments. We conclude with design implications for advice-giving agents and ecosystems blending AI, crowd input, and expert oversight.
+        pdfLink: "https://dl.acm.org/doi/pdf/10.1145/3772318.3791233",
+        doiLink: "https://dl.acm.org/doi/full/10.1145/3772318.3791233",
+        featured: true
+    },
     {
-        id: "pub2",
+        id: "pub3",
         title: "The Development and Validation of the Comprehensive Inventory of Thriving (CIT) and the Brief Inventory of Thriving (BIT)",
         authors: "Rong Su, Louis Tay, Ed Diener.",
         year: 2014,
@@ -218,7 +228,7 @@ const publications = [
         featured: true
     },
     {
-        id: "pub3",
+        id: "pub4",
         title: "Conceptualizing “positive attributes” across psychological perspectives",
         authors: "Danielle Wilson, Vincent Ng, Nicole Alonso, Anne Jeffrey, and Louis Tay",
         year: 2023,
@@ -229,7 +239,7 @@ const publications = [
         featured: false
     },
     {
-        id: "pub4",
+        id: "pub5",
         title: "Character Traits Predict Health and Well-Being beyond Personality",
         authors: "Danielle Wilson, Vincent Ng, Jeff Foster, and Louis Tay",
         year: 2023,
@@ -240,7 +250,7 @@ const publications = [
         featured: false
     },
     {
-        id: "pub5",
+        id: "pub6",
         title: "Lost in Translation: The Construct Representation of Character Virtues",
         authors: " Vincent Ng and Louis Tay",
         year: 2020,
@@ -252,7 +262,7 @@ const publications = [
         featured: false
     },
   {
-        id: "pub6",
+        id: "pub7",
         title: "Behavioral measures of humility: Part 1. Theoretical and methodological review",
         authors: "Daryl R. Van Tongeren, Vincent Ng, Louis Hickman, and Louis Tay",
         year: 2022,
@@ -263,7 +273,7 @@ const publications = [
         featured: false
     },
   {
-        id: "pub7",
+        id: "pub8",
         title: "Behavioral measures of humility: Part 2. Conceptual mapping and charting ways forward",
         authors: "Daryl R. Van Tongeren, Vincent Ng, Louis Hickman, and Louis Tay",
         year: 2022,
