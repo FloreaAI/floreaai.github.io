@@ -205,7 +205,8 @@ const publications = [
         doiLink: "https://www.nature.com/articles/s41562-018-0307-6",
         featured: true
     },
-    { id: "pub2",
+    { 
+        id: "pub2",
         title: "When AI Gives Advice: Evaluating AI and Human Responses to Online Advice-Seeking for Well-Being",
         authors: "Harsh Kumar, Jasmine Chahal, Yinuo Zhao, Zeling Zhang, Annika Z Wei, Louis Tay, and Ashton Anderson",
         year: 2026,
