@@ -2107,3 +2107,18 @@ footer {
   }
   @keyframes fadeIn { to { opacity: 1; } }
 }
+.social-link-card:nth-child(1) { background: #F7F7F7; border: 1px solid #e0e0e0; }
+.social-link-card:nth-child(1) .social-icon { background: #000000; }
+.social-link-card:nth-child(1) .social-info h3 { color: #000000; }
+
+.social-link-card:nth-child(2) { background: #F0F7FF; border: 1px solid #b3d4f0; }
+.social-link-card:nth-child(2) .social-icon { background: #0077B5; }
+.social-link-card:nth-child(2) .social-info h3 { color: #0077B5; }
+
+.social-link-card:nth-child(3) { background: #FFF0F7; border: 1px solid #f0b3d4; }
+.social-link-card:nth-child(3) .social-icon { background: linear-gradient(135deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
+.social-link-card:nth-child(3) .social-info h3 { color: #cc2366; }
+
+.social-link-card:nth-child(4) { background: #F0F8FF; border: 1px solid #a8d4f5; }
+.social-link-card:nth-child(4) .social-icon { background: #0085ff; }
+.social-link-card:nth-child(4) .social-info h3 { color: #0085ff; }
