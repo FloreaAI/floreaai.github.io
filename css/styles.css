@@ -366,6 +366,10 @@ section {
     transform: translateY(-10px);
     box-shadow: var(--card-shadow-hover);
 }
+.mission-card:nth-child(1) { background: #FFFBF2; border: 1px solid #F5C16C; }
+.mission-card:nth-child(2) { background: #F0FBF7; border: 1px solid #5DCAA5; }
+.mission-card:nth-child(3) { background: #F5F4FE; border: 1px solid #AFA9EC; }
+.mission-card:nth-child(4) { background: #FEF5F2; border: 1px solid #F0997B; }
 
 .mission-icon {
     width: 80px;
@@ -377,6 +381,10 @@ section {
     align-items: center;
     justify-content: center;
 }
+.mission-card:nth-child(1) .mission-icon { background: linear-gradient(135deg, #F4A460, #D4813A); }
+.mission-card:nth-child(2) .mission-icon { background: linear-gradient(135deg, #5DCAA5, #1D9E75); }
+.mission-card:nth-child(3) .mission-icon { background: linear-gradient(135deg, #AFA9EC, #7F77DD); }
+.mission-card:nth-child(4) .mission-icon { background: linear-gradient(135deg, #F0997B, #D85A30); }
 
 .mission-icon .material-icons {
     font-size: 2.5rem;
@@ -387,6 +395,10 @@ section {
     color: var(--dark-green);
     margin-bottom: 1rem;
 }
+.mission-card:nth-child(1) h3 { color: #D4813A; }
+.mission-card:nth-child(2) h3 { color: #0F6E56; }
+.mission-card:nth-child(3) h3 { color: #534AB7; }
+.mission-card:nth-child(4) h3 { color: #993C1D; }
 
 .mission-card p {
     color: var(--text-light);
