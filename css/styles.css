@@ -2133,9 +2133,4 @@ footer {
 .hero-text p { color: #A8DFC0; }
 .btn-secondary { color: #6EC89A; border-color: #6EC89A; }
 .btn-secondary:hover { background: #6EC89A; color: #0A2218; }
-nav { background: #0A2218; }
-nav.scrolled { background: #0A2218; }
-.nav-links a { color: #ffffff; }
-.nav-links a:hover,
-.nav-links a.active { color: #6EC89A; }
-.nav-links a::after { background: #6EC89A; }
+
