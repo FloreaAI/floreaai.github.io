@@ -2140,4 +2140,14 @@ nav.scrolled { background: #0A2218; }
 .nav-links a.active { color: #6EC89A; }
 .nav-links a::after { background: #6EC89A; }
 
+.chatbot-demo-section { background: #f8f9fa; }
+.chatbot-demo-section .section-header { 
+    background: #1B4332;
+    margin: -5rem -2rem 3rem;
+    padding: 3rem 2rem;
+}
+.chatbot-demo-section .section-header h2 { color: #ffffff; }
+.chatbot-demo-section .section-header p { color: #95D5B2; }
+.chatbot-demo-section .accent-line { background: #95D5B2; }
+
 
