@@ -108,9 +108,9 @@ nav.scrolled {
 .logo-text h1 {
     font-size: 1.5rem;
     font-weight: 700;
-    background: linear-gradient(135deg, var(--primary-green), var(--dark-green));
+    background: none;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: #ffffff;
     background-clip: text;
 }
 
@@ -2139,4 +2139,4 @@ nav.scrolled { background: #0A2218; }
 .nav-links a:hover,
 .nav-links a.active { color: #6EC89A; }
 .nav-links a::after { background: #6EC89A; }
-
+.logo-text p { color: #ffffff; }
