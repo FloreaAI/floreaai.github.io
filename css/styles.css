@@ -2139,3 +2139,10 @@ nav.scrolled { background: #0A2218; }
 .nav-links a:hover,
 .nav-links a.active { color: #6EC89A; }
 .nav-links a::after { background: #6EC89A; }
+
+/* Footer text colors */
+.footer-section p { color: #ffffff; }
+.footer-section a { color: #A8DFC0; }
+.footer-section a:hover { color: #6EC89A; }
+.footer-section h3 { color: #6EC89A; }
+.footer-bottom { color: #7DCCA0; }
