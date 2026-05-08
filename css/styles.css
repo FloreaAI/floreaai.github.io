@@ -2140,17 +2140,4 @@ nav.scrolled { background: #0A2218; }
 .nav-links a.active { color: #6EC89A; }
 .nav-links a::after { background: #6EC89A; }
 
-.chatbot-demo-section { background: linear-gradient(135deg, #f8f9fa 0%, #e8f5e9 100%); }
-.chatbot-demo-section .section-header {
-    background: #1B4332;
-    border-radius: 100px;
-    padding: 1.5rem 3rem;
-    max-width: 600px;
-    margin: 0 auto 3rem;
-    box-shadow: 0 4px 20px rgba(27, 67, 50, 0.3);
-}
-.chatbot-demo-section .section-header h2 { color: #ffffff; }
-.chatbot-demo-section .section-header p { color: #95D5B2; }
-.chatbot-demo-section .accent-line { background: #95D5B2; }
-
 
