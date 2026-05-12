@@ -97,7 +97,7 @@ nav.scrolled {
     align-items: center;
     gap: 1rem;
     text-decoration: none;
-    color: var(--text-dark);
+    color: #ffffff;
 }
 
 .logo-nav img {
