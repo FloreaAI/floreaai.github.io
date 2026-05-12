@@ -2140,4 +2140,6 @@ nav.scrolled { background: #0A2218; }
 .nav-links a.active { color: #6EC89A; }
 .nav-links a::after { background: #6EC89A; }
 
+.logo-text h1 { -webkit-text-fill-color: #ffffff !important; color: #ffffff !important; }
+.logo-text p { color: #ffffff !important; }
 
