@@ -2121,13 +2121,13 @@ footer {
 .social-link-card:nth-child(4) .social-info h3 { color: #0085ff; }
 .social-content h2 { color: #2c3e50; }
 .social-content p { color: #2c3e50; }
-.hero { background: #E8D9C4; }
+.hero { background: #B5D9A3; }
 .hero-text h2 {
     background: none;
     -webkit-text-fill-color: #0A2218;
     color: #0A2218;
 }
-.hero-text p { color: #5a4a35; }
+.hero-text p { color: #2a5a30; }
 .btn-secondary { color: #6EC89A; border-color: #6EC89A; }
 .btn-secondary:hover { background: #6EC89A; color: #0A2218; }
 nav { background: #0A2218; }
