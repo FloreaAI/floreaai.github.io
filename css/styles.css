@@ -1797,13 +1797,13 @@ footer {
 }
 
 .message.ai .message-avatar {
-    background: linear-gradient(135deg, var(--primary-green), var(--dark-green));
+    background: linear-gradient(135deg, #0A2218, #1a4a30);
     color: white;
 }
 
 .message.user .message-avatar {
-    background: linear-gradient(135deg, #3b82f6, #1e40af);
-    color: white;
+    background: linear-gradient(135deg, #F5D060, #e0bc40);
+    color: #0A2218;
 }
 
 .message-content {
@@ -1820,8 +1820,8 @@ footer {
 }
 
 .message.user .message-content {
-    background: linear-gradient(135deg, #3b82f6, #2563eb);
-    color: white;
+    background: linear-gradient(135deg, #F5D060, #e0bc40);
+    color: #0A2218;
 }
 
 .chatbot-footer {
