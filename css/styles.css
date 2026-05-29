@@ -2138,7 +2138,7 @@ nav.scrolled { background: #0A2218; }
 .section-header p { color: #4a4a4a; }
 .chatbot-info h3 { color: #0A2218; }
 .chatbot-info > p { color: #4a4a4a; }
-footer { border-top: 4px solid #F5D060; }
+footer { background: #0A2218; border-top: 4px solid #F5D060;  }
 .footer-section h3 { color: #F5D060; }
 .footer-section p, .footer-section a { color: rgba(255,255,255,0.75); }
 .hero .btn-secondary { color: #0A2218; border-color: #0A2218; background: transparent; }
