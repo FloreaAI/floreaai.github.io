@@ -2141,16 +2141,4 @@ nav.scrolled { background: #0A2218; }
 footer { border-top: 4px solid #F5D060; }
 .footer-section h3 { color: #F5D060; }
 .footer-section p, .footer-section a { color: rgba(255,255,255,0.75); }
-.hero { padding: 0; }
-.hero-split { display: grid; grid-template-columns: 1fr 1fr; min-height: calc(90vh - 80px); }
-.hero-left { background: #0A2218; display: flex; align-items: center; padding: 4rem; }
-.hero-right { background: #F5D060; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 4rem; }
-.hero-right img { max-width: 260px; height: auto; }
-.hero-right-label { font-size: 0.85rem; font-weight: 700; color: #0A2218; letter-spacing: 3px; margin-top: 1.5rem; text-transform: uppercase; }
-.hero-label { font-size: 0.75rem; font-weight: 600; color: #F5D060; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 1rem; display: block; }
-@media (max-width: 768px) {
-    .hero-split { grid-template-columns: 1fr; }
-    .hero-right { min-height: 280px; padding: 2rem; }
-    .hero-left { padding: 2rem; }
-}
 
