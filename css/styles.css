@@ -2119,9 +2119,9 @@ footer {
 .social-content h2 { color: #0A2218; }
 .social-content p { color: #2c3e50; }
 .chatbot-demo-section { padding: 5rem 0; background: #F0F9E8; }
-.hero { background: #0A2218; }
-.hero-text h2 { background: none; -webkit-text-fill-color: #ffffff; color: #ffffff; }
-.hero-text p { color: rgba(255,255,255,0.85); }
+.hero { background: #E6E6F5; }
+.hero-text h2 { background: none; -webkit-text-fill-color: #1a1a4a; color: #1a1a4a; }
+.hero-text p { color: #3a3a6a; }
 .btn-primary { background: #F5D060; color: #0A2218; box-shadow: none; }
 .btn-primary:hover { background: #e0bc40; color: #0A2218; box-shadow: none; }
 .btn-secondary { color: #ffffff; border-color: #ffffff; background: transparent; }
@@ -2141,4 +2141,5 @@ nav.scrolled { background: #0A2218; }
 footer { border-top: 4px solid #F5D060; }
 .footer-section h3 { color: #F5D060; }
 .footer-section p, .footer-section a { color: rgba(255,255,255,0.75); }
-
+.hero .btn-secondary { color: #0A2218; border-color: #0A2218; background: transparent; }
+.hero .btn-secondary:hover { background: #0A2218; color: #ffffff; }
