@@ -2143,3 +2143,4 @@ footer { background: #0A2218; border-top: 4px solid #F5D060;  }
 .footer-section p, .footer-section a { color: rgba(255,255,255,0.75); }
 .hero .btn-secondary { color: #0A2218; border-color: #0A2218; background: transparent; }
 .hero .btn-secondary:hover { background: #0A2218; color: #ffffff; }
+.sponsors-section { background: #E6E6F5; }
