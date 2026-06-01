@@ -2150,3 +2150,12 @@ footer { background: #0A2218; border-top: 4px solid #F5D060;  }
 .pub-link { background: #E6E6F5; color: #1a1a4a; }
 .pub-link:hover { background: #1a1a4a; color: #ffffff; }
 .read-more { color: #1a1a4a; }
+.news-list { display: flex; flex-direction: column; max-width: 800px; margin: 0 auto; }
+.news-item { display: block; text-decoration: none; padding: 2rem 0; border-bottom: 1px solid #e0e0e0; }
+.news-item:first-child { border-top: 1px solid #e0e0e0; }
+.news-item h3 { font-size: 1.2rem; color: #1a1a4a; margin-bottom: 0.75rem; line-height: 1.5; }
+.news-item:hover h3 { color: #0A2218; text-decoration: underline; }
+.news-meta { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
+.news-source { background: #0A2218; color: #F5D060; font-size: 0.75rem; font-weight: 600; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+.news-date { font-size: 0.85rem; color: #7f8c8d; }
+.news-author { font-size: 0.85rem; color: #7f8c8d; font-style: italic; }
