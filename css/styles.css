@@ -2146,3 +2146,7 @@ footer { background: #0A2218; border-top: 4px solid #F5D060;  }
 .sponsors-section { background: #E6E6F5; }
 .latest-section .btn-secondary { background: #E6E6F5; color: #1a1a4a; border-color: #1a1a4a; }
 .latest-section .btn-secondary:hover { background: #1a1a4a; color: #ffffff; border-color: #1a1a4a; }
+.publication-card { border-left: 4px solid #F5D060; }
+.pub-link { background: #E6E6F5; color: #1a1a4a; }
+.pub-link:hover { background: #1a1a4a; color: #ffffff; }
+.read-more { color: #1a1a4a; }
