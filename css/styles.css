@@ -2162,11 +2162,12 @@ footer { background: #0A2218; border-top: 4px solid #F5D060;  }
 .page-header { background: #E6E6F5; }
 .page-header h1 { background: none; -webkit-text-fill-color: #1a1a4a; color: #1a1a4a; }
 .page-header p { color: #3a3a6a; }
-.stat-card { background: #C8C8E8; }
-.stat-number { background: none; -webkit-text-fill-color: #1a1a4a; color: #1a1a4a; }
+.stat-card { background: #F5D060; }
+.stat-number { background: none; -webkit-text-fill-color: #0A2218; color: #0A2218; }
 .stat-label { color: #0A2218; }
-.stat-card p { color: #3a3a6a; }
+.stat-card p { color: #0A2218; }
 .impact-section { background: #C8C8E8; }
 .impact-content h2 { color: #1a1a4a; }
 .impact-content p { color: #3a3a6a; }
+.outcome-card { border: 2px solid #C8C8E8; }
 .hypothesis-box { background: #FFFEF5; }
