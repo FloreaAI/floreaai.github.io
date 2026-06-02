@@ -318,7 +318,7 @@ section {
 .page-header {
     margin-top: 80px;
     padding: 4rem 2rem;
-    background: linear-gradient(135deg, rgba(46, 204, 113, 0.1), rgba(26, 122, 74, 0.1));
+    background: #E6E6F5;
     text-align: center;
 }
 
