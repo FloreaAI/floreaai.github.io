@@ -1044,7 +1044,7 @@ section {
 }
 
 .stat-card {
-    background: white;
+    background:  #FFF8DC;
     padding: 2rem;
     border-radius: 15px;
     box-shadow: var(--card-shadow);
@@ -1241,7 +1241,7 @@ section {
 }
 
 .impact-section {
-    background: linear-gradient(135deg, rgba(46, 204, 113, 0.1), rgba(26, 122, 74, 0.1));
+    background: #FFF8DC;
     padding: 4rem 2rem;
 }
 
