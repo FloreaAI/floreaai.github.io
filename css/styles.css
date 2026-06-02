@@ -2171,3 +2171,7 @@ footer { background: #0A2218; border-top: 4px solid #F5D060;  }
 .impact-content p { color: #5a4a00; }
 .outcome-card { border: 2px solid #C8C8E8; }
 .hypothesis-box { background: #FFFEF5; }
+.social-links-large .social-link:nth-child(1) { background: #F7F7F7; color: #000000; border: 1px solid #e0e0e0; }
+.social-links-large .social-link:nth-child(2) { background: #F0F7FF; color: #0077B5; border: 1px solid #b3d4f0; }
+.social-links-large .social-link:nth-child(3) { background: #FFF0F7; color: #cc2366; border: 1px solid #f0b3d4; }
+.social-links-large .social-link:nth-child(4) { background: #F0F8FF; color: #0085ff; border: 1px solid #a8d4f5; }
