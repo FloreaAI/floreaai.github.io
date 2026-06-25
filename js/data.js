@@ -660,7 +660,7 @@ const blogPosts = [
 
         <p><em>This post reflects insights from Florea AI's ongoing expert review series, bringing together researchers and thinkers from psychology, social computing, organizational science, human-computer interaction, and positive psychology to help us ask harder questions about what AI for human flourishing should look like.</em></p>
     `,
-    image: "images/blog/blog4.png1"
+    image: "images/blog/blog4-1.png",
     featured: true
 }
        // TO ADD MORE BLOG POSTS:
