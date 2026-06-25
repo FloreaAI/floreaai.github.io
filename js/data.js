@@ -587,7 +587,7 @@ const blogPosts = [
     category: "Psychology",
     excerpt: "The AI industry is extraordinarily good at answering questions. But here is the question that tends to get left out: can AI make you a genuinely better person? Not more efficient. Not measurably happier on a self-report survey. A better person in the fullest sense.",
     content: `
-        <img src="images/blog/blog4.png1" alt="Can AI Make You a Better Person" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
+        <img src="images/blog/blog4-1.png" alt="Can AI Make You a Better Person" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
 
         <p>The AI industry is extraordinarily good at answering questions.</p>
 
@@ -636,7 +636,7 @@ const blogPosts = [
                 <p>This assumption also extends to gender. The virtues we build AI to promote are not gender-neutral in practice. Patience and kindness are disproportionately expected of women, and coaching women toward these virtues without examining the social expectations they carry can reinforce patterns of self-suppression rather than develop genuine character. Assertiveness and courage have historically been coded as male virtues, and treating them as deficits in women is a harm that AI coaching tools can quietly perpetuate if they are not designed with care. These are not edge cases or afterthoughts. They are central questions. The failure to ask them from the beginning to build cultural and demographic awareness into the design rather than acknowledging it as a limitation at the end is one of the ways well-intentioned technology causes harm to the people it most wants to serve.</p>
             </div>
             <div style="flex: 1;">
-                <img src="images/blog/blog4.png2" alt="Cultural definitions of virtue" style="width:100%; border-radius: 8px;" />
+                <img src="images/blog/blog4-2.png" alt="Cultural definitions of virtue" style="width:100%; border-radius: 8px;" />
             </div>
         </div>
 
@@ -644,7 +644,7 @@ const blogPosts = [
 
         <h3>The Deepest Truth: Character Is Not Built Alone</h3>
 
-        <img src="images/blog/blog4.png3" alt="Character is not built alone" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
+        <img src="images/blog/blog4-3.png" alt="Character is not built alone" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
 
         <p>There is one more thing worth saying, and it may be the most important.</p>
 
@@ -660,7 +660,7 @@ const blogPosts = [
 
         <p><em>This post reflects insights from Florea AI's ongoing expert review series, bringing together researchers and thinkers from psychology, social computing, organizational science, human-computer interaction, and positive psychology to help us ask harder questions about what AI for human flourishing should look like.</em></p>
     `,
-    image: "images/blog/blog4.png1",
+    image: "images/blog/blog4.png1"
     featured: true
 }
        // TO ADD MORE BLOG POSTS:
