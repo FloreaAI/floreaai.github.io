@@ -578,8 +578,7 @@ const blogPosts = [
         `,
         image: "images/blog/tory.png",
         featured: true
-    },
-    {
+    }
 
 }
        // TO ADD MORE BLOG POSTS:
