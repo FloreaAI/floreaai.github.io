@@ -580,7 +580,7 @@ const blogPosts = [
         featured: true
     }
 
-       // TO ADD MORE BLOG POSTS:
+    // TO ADD MORE BLOG POSTS:
     // Copy an entry, paste here, and modify the content
     // For the content field, use HTML tags like <p>, <h3>, etc.
 ];
