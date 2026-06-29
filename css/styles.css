@@ -2086,6 +2086,12 @@ footer {
   nav.open .nav-links a {
     display: block;
     padding: 1rem 2rem;
+    color: #0A2218;                /* dark text on the white dropdown (overrides the white nav-bar color) */
+  }
+
+  nav.open .nav-links a:hover,
+  nav.open .nav-links a.active {
+    color: #C99A00;                /* darker gold so the current/hovered item stays readable on white */
   }
 
   /* Backdrop to dim the page when menu is open */
