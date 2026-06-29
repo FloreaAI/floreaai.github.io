@@ -1,0 +1,49 @@
+name: Deploy to GitHub Pages
+
+# Deploys the site to GitHub Pages using the official Pages deployment action.
+# This uploads the full site as an artifact and performs an atomic swap: the
+# currently-live site keeps serving until the new deployment is fully ready,
+# which avoids the "Site not found" gap that the implicit branch build can cause.
+
+on:
+  # Deploy on every push to main
+  push:
+    branches: [main]
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+# Permissions required by actions/deploy-pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one deployment at a time. Do NOT cancel an in-progress run, so a
+# deploy always finishes cleanly and the live site is never left in a torn-down
+# state between a cancellation and the next build.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Publish the repository root (this is a plain static site)
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
