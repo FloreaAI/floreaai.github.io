@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A2218"/><stop offset="1" stop-color="#1D7A4A"/></linearGradient></defs>
+<rect width="1200" height="675" fill="url(#bg)"/>
+<circle cx="1060" cy="120" r="240" fill="#79c34e" opacity="0.10"/>
+<circle cx="980" cy="600" r="170" fill="#79c34e" opacity="0.08"/>
+<circle cx="150" cy="560" r="90" fill="#79c34e" opacity="0.06"/>
+<g transform="translate(70,66)">
+<path d="M22,2 C40,11 40,37 22,46 C4,37 4,11 22,2 Z" fill="#79c34e"/>
+<path d="M22,7 L22,41" stroke="#0A2218" stroke-width="2.5" opacity="0.55"/>
+<text x="62" y="34" font-family="Montserrat, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff" letter-spacing="0.5">Florea AI</text>
+</g>
+<rect x="70" y="300" rx="22" ry="22" width="229" height="44" fill="#79c34e"/>
+<text x="184.5" y="329" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="700" fill="#0A2218" letter-spacing="1.5">UNIVERSITY NEWS</text>
+<text x="70" y="422" font-family="Playfair Display, Georgia, serif" font-size="74" font-weight="700" fill="#ffffff">Purdue HHS News</text>
+<text x="72" y="628" font-family="Montserrat, Arial, sans-serif" font-size="24" fill="#cbd5cc" opacity="0.85">December 22, 2025</text>
+<rect x="0" y="663" width="1200" height="12" fill="#79c34e"/>
+</svg>
