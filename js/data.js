@@ -588,7 +588,7 @@ const blogPosts = [
         excerpt: "The AI industry is extraordinarily good at answering questions. But here is the question that tends to get left out: can AI make you a genuinely better person? Not more efficient. Not measurably happier on a self-report survey. A better person in the fullest sense.",
         content: `
 
-        <p>The AI industry is extraordinarily good at answering questions.</p>
+       <p>The AI industry is extraordinarily good at answering questions.</p>
 
         <p>Can AI make you more productive? Yes. Can it reduce friction in your day, summarize your inbox, help you write faster, and give you information you once had to search for? Absolutely. Can it provide a kind of emotional support that feels attentive, patient, and available at any hour? In many cases, yes. But here is the question that tends to get left out: can AI make you a genuinely better person? Not more efficient. Not measurably happier on a self-report survey. A better person in the fullest sense, more patient, more honest, more generous, more capable of showing up for others even when it costs you something. A person whose character, over time, actually develops.</p>
 
@@ -631,17 +631,19 @@ const blogPosts = [
                 <p>Most AI for character development is built on frameworks developed in Western, predominantly individualistic cultural contexts. Patience is understood as personal composure. Kindness is understood as individual acts of care. Honesty is understood as saying what is true regardless of relational context. These are not wrong definitions. But they are not universal ones either.</p>
 
                 <p>In many cultural traditions, patience is fundamentally about maintaining collective harmony, not individual equanimity. Generosity is embedded in communal obligation rather than personal choice. Honesty is shaped by the relationship between the people involved and the setting in which truth is spoken. An AI coaching system that does not account for these differences is not neutral. It carries assumptions about what virtue means, and when it is deployed globally, it imposes those assumptions on people whose traditions offer different and equally valid ways of understanding what it means to live well.</p>
-
             </div>
             <div style="flex: 1;">
                 <img src="images/blog/blog4-2.png" alt="Cultural definitions of virtue" style="width:100%; border-radius: 8px;" />
-                <p>This assumption also extends to gender. The virtues we build AI to promote are not gender-neutral in practice. Patience and kindness are disproportionately expected of women, and coaching women toward these virtues without examining the social expectations they carry can reinforce patterns of self-suppression rather than develop genuine character. Assertiveness and courage have historically been coded as male virtues, and treating them as deficits in women is a harm that AI coaching tools can quietly perpetuate if they are not designed with care. These are not edge cases or afterthoughts. They are central questions. The failure to ask them from the beginning to build cultural and demographic awareness into the design rather than acknowledging it as a limitation at the end is one of the ways well-intentioned technology causes harm to the people it most wants to serve.</p>
             </div>
         </div>
+
+        <p>This assumption also extends to gender. The virtues we build AI to promote are not gender-neutral in practice. Patience and kindness are disproportionately expected of women, and coaching women toward these virtues without examining the social expectations they carry can reinforce patterns of self-suppression rather than develop genuine character. Assertiveness and courage have historically been coded as male virtues, and treating them as deficits in women is a harm that AI coaching tools can quietly perpetuate if they are not designed with care. These are not edge cases or afterthoughts. They are central questions. The failure to ask them from the beginning to build cultural and demographic awareness into the design rather than acknowledging it as a limitation at the end is one of the ways well-intentioned technology causes harm to the people it most wants to serve.</p>
 
         <p>And there is something even more fundamental to the question of character development underneath all of this. Virtues are not abstract properties that exist apart from the lives in which they develop. A person's capacity for patience is shaped by their circumstances by housing stability, job security, the quality of their relationships, and whether their environment is one of chronic stress or relative safety. Coaching patience in someone whose circumstances systematically deplete the cognitive and emotional resources that patience requires is not neutral. It risks implicitly blaming individual character for conditions that are structurally produced. AI for human flourishing that does not reckon with the structural conditions of the lives it is entering is building on a foundation that will not hold.</p>
 
         <h3>The Deepest Truth: Character Is Not Built Alone</h3>
+
+        <img src="images/blog/blog4-3.png" alt="Character is not built alone" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
 
         <p>There is one more thing worth saying, and it may be the most important.</p>
 
@@ -656,7 +658,6 @@ const blogPosts = [
         <p>We are not building AI that tells people what virtue looks like. We are building AI that understands what character development actually requires: friction, honest challenge, reflection on real experience, connection to real relationships and that works with those conditions rather than against them. That means building AI that is willing to ask a harder question rather than give a comfortable answer. It means building AI that knows when to step back rather than fill every silence. It means building AI that takes seriously the cultural context of the person it is talking with, and the social environment that will either support or undermine whatever they are trying to build in themselves. Making people feel good is the easy problem to solve. Building tools that actually help people become better in ways that are honest, equitable, and grounded in how character development really works is the harder one.</p>
 
         <p><em>This post reflects insights from Florea AI's ongoing expert review series, bringing together researchers and thinkers from psychology, social computing, organizational science, human-computer interaction, and positive psychology to help us ask harder questions about what AI for human flourishing should look like.</em></p>
-        `,
         image: "images/blog/blog4-1.png",
         featured: true
     }
