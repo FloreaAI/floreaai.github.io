@@ -658,6 +658,7 @@ const blogPosts = [
         <p>We are not building AI that tells people what virtue looks like. We are building AI that understands what character development actually requires: friction, honest challenge, reflection on real experience, connection to real relationships and that works with those conditions rather than against them. That means building AI that is willing to ask a harder question rather than give a comfortable answer. It means building AI that knows when to step back rather than fill every silence. It means building AI that takes seriously the cultural context of the person it is talking with, and the social environment that will either support or undermine whatever they are trying to build in themselves. Making people feel good is the easy problem to solve. Building tools that actually help people become better in ways that are honest, equitable, and grounded in how character development really works is the harder one.</p>
 
         <p><em>This post reflects insights from Florea AI's ongoing expert review series, bringing together researchers and thinkers from psychology, social computing, organizational science, human-computer interaction, and positive psychology to help us ask harder questions about what AI for human flourishing should look like.</em></p>
+        `,
         image: "images/blog/blog4-1.png",
         featured: true
     }
