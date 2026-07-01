@@ -643,7 +643,7 @@ const blogPosts = [
 
         <h3>The Deepest Truth: Character Is Not Built Alone</h3>
 
-        <img src="images/blog/blog4-3.png" alt="Character is not built alone" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
+        <img src="images/blog/blog4-2.png" alt="Cultural definitions of virtue" style="width:100%; max-height: 300px; object-fit: cover; border-radius: 8px;" />
 
         <p>There is one more thing worth saying, and it may be the most important.</p>
 
