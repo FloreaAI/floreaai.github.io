@@ -587,6 +587,7 @@ const blogPosts = [
         category: "Psychology",
         excerpt: "The AI industry is extraordinarily good at answering questions. But here is the question that tends to get left out: can AI make you a genuinely better person? Not more efficient. Not measurably happier on a self-report survey. A better person in the fullest sense.",
         content: `
+        <img src="images/blog/blog4-1.png" alt="Can AI Make You a Better Person" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
 
         <p>The AI industry is extraordinarily good at answering questions.</p>
 
@@ -623,7 +624,7 @@ const blogPosts = [
         <p>There is an important distinction that is easy to collapse. AI that helps you act on a virtuous intention is doing something different from AI that acts in place of you. If AI helps you turn a vague desire to be generous into a specific, concrete action, such as finding a cause, making a plan, reducing the gap between wanting to do good and actually doing it, then that is genuinely valuable. The act can reinforce your sense of yourself as a generous person, which over time shapes who you become. But if AI writes the thank-you letter for you, plans the act of kindness for you, or navigates the moral dilemma for you, the growth that would have come from the effort does not happen. The outcome exists in the world, but character development does not.</p>
 
         <h3>Whose Definition of Virtue Is Built Into These Systems?</h3>
-        
+
         <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 1.5rem;">
             <div style="flex: 1;">
                 <p>There is a question underneath all of this that the AI field has not yet taken seriously enough: whose understanding of what it means to be a good person is embedded in these systems?</p>
@@ -643,7 +644,7 @@ const blogPosts = [
 
         <h3>The Deepest Truth: Character Is Not Built Alone</h3>
 
-        <img src="images/blog/blog4-2.png" alt="Cultural definitions of virtue" style="width:100%; max-height: 300px; object-fit: cover; border-radius: 8px;" />
+        <img src="images/blog/blog4-3.png" alt="Character is not built alone" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
 
         <p>There is one more thing worth saying, and it may be the most important.</p>
 
