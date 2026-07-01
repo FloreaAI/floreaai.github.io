@@ -643,8 +643,6 @@ const blogPosts = [
 
         <h3>The Deepest Truth: Character Is Not Built Alone</h3>
 
-        <img src="images/blog/blog4-3.png" alt="Character is not built alone" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
-
         <p>There is one more thing worth saying, and it may be the most important.</p>
 
         <p>Everything we have discussed so far assumes a model in which AI coaches an individual. One person and one system, having a private conversation in an optimized interaction. This is the dominant design paradigm for AI conversational agents, and it misses something essential about how character actually develops. Virtues are not individual achievements. They are relational ones. Patience is practiced in relationships with people who test it. Honesty is exercised in relationships where the truth has stakes. Generosity develops through repeated experience of giving to specific people in specific circumstances over time. The character virtues that matter most - kindness, loyalty, courage, integrity - are not developed in isolation. They develop through the sustained, reciprocal, demanding work of showing up for each other, being held accountable, and being changed by the experience.</p>
