@@ -587,7 +587,6 @@ const blogPosts = [
         category: "Psychology",
         excerpt: "The AI industry is extraordinarily good at answering questions. But here is the question that tends to get left out: can AI make you a genuinely better person? Not more efficient. Not measurably happier on a self-report survey. A better person in the fullest sense.",
         content: `
-        <img src="images/blog/blog4-1.png" alt="Can AI Make You a Better Person" style="width:100%; margin-bottom: 20px; border-radius: 8px;" />
 
         <p>The AI industry is extraordinarily good at answering questions.</p>
 
