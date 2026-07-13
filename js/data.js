@@ -668,6 +668,44 @@ const blogPosts = [
 ];
 
 // ============================================================================
+// VIDEOS
+// ============================================================================
+// To add a new video, copy an entry and paste it here.
+// For YouTube videos, use the video ID from the URL (the part after 'youtu.be/'
+// or 'v='). Example: https://youtu.be/b259LzVPbQo -> video ID is "b259LzVPbQo"
+//
+// Use the "category" field to group videos. Current videos are for the
+// CHATBOT platform (category "Chatbot"). Other Florea AI videos should use
+// their own category so they stay separate and can be filtered on their own.
+
+const videos = [
+    {
+        id: "chatbot-build-run-study",
+        title: "How to Build and Run an AI Chatbot Study",
+        videoId: "b259LzVPbQo", // YouTube video ID
+        description: "A complete, step-by-step guide to building and running an AI chatbot study on the Florea AI chatbot platform.",
+        date: "2026",
+        category: "Chatbot",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/b259LzVPbQo/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "chatbot-study-no-coding",
+        title: "Run an AI Chatbot Study Without Coding",
+        videoId: "rjO5PwnBYsk", // YouTube video ID
+        description: "How to launch and run an AI chatbot study on the Florea AI chatbot platform - no coding required.",
+        date: "2026",
+        category: "Chatbot",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/rjO5PwnBYsk/maxresdefault.jpg` // Auto-generated from YouTube
+    }
+    // TO ADD MORE VIDEOS:
+    // Copy an entry above, paste here, and modify id / title / videoId /
+    // description / date / category. Keep chatbot videos as "Chatbot"; give
+    // other Florea AI videos a different category (e.g. "Research Overview").
+];
+
+// ============================================================================
 // WEBSITE SETTINGS
 // ============================================================================
 // General settings you can modify

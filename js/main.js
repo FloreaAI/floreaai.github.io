@@ -778,3 +778,97 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 });
+
+// ============================================================================
+// VIDEOS PAGE (loads from the `videos` array in data.js)
+// ============================================================================
+function loadVideos(filter = 'all') {
+    const videosGrid = document.getElementById('videos-grid');
+    if (!videosGrid) return;
+
+    if (typeof videos === 'undefined' || !videos) {
+        console.error('videos array not found in data.js');
+        videosGrid.innerHTML = '<p style="text-align: center; color: red;">Error: Videos data not loaded. Please check data.js.</p>';
+        return;
+    }
+
+    videosGrid.innerHTML = '';
+
+    let filteredVideos = videos;
+    if (filter === 'featured') {
+        filteredVideos = videos.filter(video => video.featured);
+    } else if (filter !== 'all') {
+        filteredVideos = videos.filter(video => video.category === filter);
+    }
+
+    if (filteredVideos.length === 0) {
+        videosGrid.innerHTML = '<p style="text-align: center; color: #666;">No videos found for this filter.</p>';
+        return;
+    }
+
+    filteredVideos.forEach(video => {
+        const videoCard = document.createElement('div');
+        videoCard.className = 'video-card';
+        videoCard.innerHTML = `
+            <div class="video-thumbnail">
+                <img src="${video.thumbnail}" alt="${video.title}">
+                <div class="play-button" onclick="openVideoModal('${video.id}')">
+                    <span class="material-icons">play_circle_filled</span>
+                </div>
+            </div>
+            <div class="video-info">
+                <h3>${video.title}</h3>
+                <p class="video-meta">${video.date} | ${video.category}</p>
+                <p class="video-description">${video.description}</p>
+                <button onclick="openVideoModal('${video.id}')" class="btn btn-secondary">
+                    <span class="material-icons">play_arrow</span>
+                    Watch Video
+                </button>
+            </div>
+        `;
+        videosGrid.appendChild(videoCard);
+    });
+}
+
+function filterVideos(filter) {
+    loadVideos(filter);
+    document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+    if (typeof event !== 'undefined' && event && event.target) {
+        event.target.classList.add('active');
+    }
+}
+
+function openVideoModal(videoId) {
+    const video = videos.find(v => v.id === videoId);
+    if (!video) return;
+
+    const modal = document.getElementById('video-modal');
+    const iframe = document.getElementById('video-iframe');
+    const title = document.getElementById('video-modal-title');
+    const description = document.getElementById('video-modal-description');
+
+    if (modal && iframe && title && description) {
+        title.textContent = video.title;
+        description.textContent = video.description;
+        const origin = window.location.origin || 'https://www.florea-ai.org';
+        iframe.src = `https://www.youtube.com/embed/${video.videoId}?autoplay=1&origin=${encodeURIComponent(origin)}`;
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+}
+
+function closeVideoModal() {
+    const modal = document.getElementById('video-modal');
+    const iframe = document.getElementById('video-iframe');
+    if (modal && iframe) {
+        modal.classList.remove('active');
+        iframe.src = '';
+        document.body.style.overflow = 'auto';
+    }
+}
+
+function closeVideoModalOnOutside(event) {
+    if (event.target.id === 'video-modal') {
+        closeVideoModal();
+    }
+}
