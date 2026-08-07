@@ -167,7 +167,7 @@ const teamMembers = [
         role: "Ph.D. Student",
         department: "Industrial-Organizational Psychology",
         image: "images/team/Joyce Lum.jpg",
-        email: "",
+        email: "lum11@purdue.edu",
         bio: "Joyce is a Ph.D. student in I-O Psychology at Purdue University. She graduated from the National University of Singapore with a master's in psychology and spent a year working as a research assistant/associate in the National Institute of Education, Singapore. Joyce's research interest lies in well-being, emotion, measurement, and data analysis. Beyond research, she enjoys books (mostly non-fiction), good coffee (drip coffee!), music (classical music!), and going to Pilates classes (for the sake of her physical well-being).",
         research: "Well-being, emotion, measurement, data analysis",
         education: "M.A. in Psychology from the National University of Singapore",
