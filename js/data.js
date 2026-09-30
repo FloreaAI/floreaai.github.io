@@ -309,7 +309,7 @@ const publications = [
 },
 {
     id: "pub10",
-    title: "Invisible Saboteurs: Sycophantic LLMs Mislead Novices in Problem-Solving Tasks"
+    title: "Invisible Saboteurs: Sycophantic LLMs Mislead Novices in Problem-Solving Tasks",
     authors: "Jessica Y Bo, Majeed Kazemitabaar, Mengqing Deng, Michael Inzlicht, & Ashton Anderson",
     year: 2026,
         journal: "CHI '26: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
