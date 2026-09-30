@@ -751,10 +751,20 @@ const videos = [
         videoId: "hveV41WiGik", // YouTube video ID
         description: "Conversational AI can now comfort us, coach us, and keep us company. But here is a question we do not ask often enough: Are these tools helping us become better versions of ourselves, or just helping us feel better in the moment?",
         date: "2026",
-        category: "",
+        category: "Research",
         featured: true,
         thumbnail: `https://img.youtube.com/vi/hveV41WiGik/maxresdefault.jpg` // Auto-generated from YouTube
     
+    },
+    {
+        id:"AI-character-practice",
+        title: "AI Can't Give You Character. Can It Help You Practice It?",
+        videoID: "kWLYc304PAw", //YouTube video ID
+        description: "AI can't give you character, but it might help you practice it.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/kWLYc304PAw/maxresdefault.jpg` // Auto-generated from YouTube
     }
     // TO ADD MORE VIDEOS:
     // Copy an entry above, paste here, and modify id / title / videoId /
