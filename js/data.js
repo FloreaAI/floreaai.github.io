@@ -744,6 +744,17 @@ const videos = [
         category: "Chatbot",
         featured: true,
         thumbnail: `https://img.youtube.com/vi/rjO5PwnBYsk/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id:"misalignment-AI-virtues",
+        title: "Misalignment of Current AI Conversational Agents and Character Virtues",
+        videoId: "hveV41WiGik", // YouTube video ID
+        description: "Conversational AI can now comfort us, coach us, and keep us company. But here is a question we do not ask often enough: Are these tools helping us become better versions of ourselves, or just helping us feel better in the moment?",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: 
+    
     }
     // TO ADD MORE VIDEOS:
     // Copy an entry above, paste here, and modify id / title / videoId /
