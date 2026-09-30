@@ -317,7 +317,19 @@ const publications = [
         pdfLink:"https://dl.acm.org/doi/pdf/10.1145/3772318.3791365",
         doiLink:"https://doi.org/10.1145/3772318.3791365",
         featured: false
-}
+},
+
+    {
+        id: "pub11",
+            title: "Position: We Need Large Language Models Optimized For Our Well-Being",
+            authors: "Ashton Anderson, Harsh Kumar, Louis Tay, & Karina Vold",
+            year: 2026,
+            journal: "Proceedings of the 43rd International Conference on Machine Learning",
+            abstract: "Contemporary large language models are predominantly trained using reinforcement learning from human feedback (RLHF), optimizing for immediate user approval rather than long-term well-being. This position paper argues that as AI systems increasingly serve socioemotional functions, this optimization strategy poses significant risks. Recent evidence demonstrates that leading models exhibit systematic sycophancy, affirming inappropriate user behaviors and preserving user face at rates far exceeding human baselines, while being approximately 40\% more likely to reinforce incorrect beliefs than their non-RLHF counterparts. We contend that the AI community must fundamentally reconsider training objectives to balance short-term satisfaction with long-term user outcomes. We propose three directions: (1) incorporating longitudinal metrics into training that capture sustained goal attainment and reduced regret rather than momentary preference, (2) enabling explicit user choice among interaction modes (concierge, collaborator, coach) with transparent justification for model pushback, and (3) developing frameworks that provide constructive challenge without paternalism. The recent industry backlashes against both excessive and insufficient model agreeableness underscore the urgency of this shift. We argue that optimizing AI systems for human flourishing, not merely human approval, represents both an ethical imperative and a path to more sustainable, trustworthy AI deployment.",
+            pdfLink: "https://openreview.net/pdf?id=LCsPkh2Ins",
+            doiLink: "",
+            featured: false
+    }
     // TO ADD MORE PUBLICATIONS:
     // Copy an entry, paste here, and modify the details
     // Don't forget the comma after the closing }
