@@ -751,7 +751,7 @@ const videos = [
         videoId: "hveV41WiGik", // YouTube video ID
         description: "Conversational AI can now comfort us, coach us, and keep us company. But here is a question we do not ask often enough: Are these tools helping us become better versions of ourselves, or just helping us feel better in the moment?",
         date: "2026",
-        category: "Research",
+        category: "",
         featured: true,
         thumbnail: `https://img.youtube.com/vi/hveV41WiGik/maxresdefault.jpg` // Auto-generated from YouTube
     
