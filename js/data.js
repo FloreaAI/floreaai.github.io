@@ -295,7 +295,30 @@ const publications = [
         pdfLink: "https://www.tandfonline.com/doi/epdf/10.1080/17439760.2022.2109201?needAccess=true",
         doiLink: "https://doi.org/10.1080/17439760.2022.2109201",
         featured: false
-    }
+    },
+    {
+        id: "pub9",
+        title: "Aligning Artificial Intelligence with Worker Health, Well-Being, and Safety: An Occupational Health Psychology Agenda",
+        authors: "Tahira Probst, Mindy Shoss, Sarah Bankins, Tara Behrend, Nico Dragano, Arif Jetha, Joel Koopman, Eva Selenko, Pok Man Tang, Louis Tay, Antonius van den Broek, & Jay Vietas",
+        year: 2026,
+        journal: "Occupational Health Science",
+        abstract: "Artificial Intelligence technologies (AI) are rapidly transforming the nature of jobs and work. While much of the discussion around AI concerns its capabilities, this set of compiled commentaries argues that AI also has profound implications for workers’ health, safety, and well-being. The commentaries explore these implications across a range of topics, including technostress, human health, flourishing, job and occupational insecurity, algorithmic management, ethics, and training needs for future occupational safety and health professionals. Together, the commentaries suggest that AI’s potential impacts are neither inherent nor inevitable. In a world where AI’s effects are still a consequence of human decisions, the frameworks and values of occupational health psychology hold promise for understanding and shaping a future of work where worker health, safety, and well-being are paramount.",
+        pdfLink: "https://link.springer.com/article/10.1007/s41542-026-00262-5",
+        doiLink: "https://doi.org/10.1007/s41542-026-00262-5",
+        featured: false
+},
+{
+    id: "pub10",
+    title: "Invisible Saboteurs: Sycophantic LLMs Mislead Novices in Problem-Solving Tasks"
+    authors: "Jessica Y Bo, Majeed Kazemitabaar, Mengqing Deng, Michael Inzlicht, & Ashton Anderson",
+    year: 2026,
+        journal: "CHI '26: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+        abtract: "Sycophancy, the tendency of LLM-based chatbots to express excessive agreement with their users, even when inappropriate, is emerging as a significant risk in human-AI interactions. However, the extent to which this affects human-LLM collaboration in complex problem-solving tasks is not well quantified, especially among novices who are prone to misconceptions. We created two LLM chatbots, one with high sycophancy and one with low sycophancy, and conducted a within-subjects experiment (n = 24) in the context of debugging machine learning models to investigate the effect of sycophancy on users’ mental models, workflows, reliance behaviors, and perceptions of the chatbots. Our findings show that users of the high sycophancy chatbot were less likely to correct their misconceptions and spent more time over-relying on unhelpful LLM responses, leading them to significantly worse performance in the task. Despite these impaired outcomes, a majority of users were unable to detect the presence of excessive sycophancy.
+",
+    pdfLink:"https://dl.acm.org/doi/pdf/10.1145/3772318.3791365",
+    doiLink:"https://doi.org/10.1145/3772318.3791365",
+    featured: false
+}
     // TO ADD MORE PUBLICATIONS:
     // Copy an entry, paste here, and modify the details
     // Don't forget the comma after the closing }
