@@ -753,7 +753,7 @@ const videos = [
         date: "2026",
         category: "Research",
         featured: true,
-        thumbnail: 
+        thumbnail: `https://img.youtube.com/vi/hveV41WiGik/maxresdefault.jpg` // Auto-generated from YouTube
     
     }
     // TO ADD MORE VIDEOS:
