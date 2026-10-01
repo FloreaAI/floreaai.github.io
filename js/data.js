@@ -765,6 +765,16 @@ const videos = [
         category: "Research",
         featured: true,
         thumbnail: `https://img.youtube.com/vi/kWLYc304PAw/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "persona-collapse-repair",
+        title: "Diagnosing and Repairing Persona Collapse in LLM Advice",
+        videoID: "74jZEmkUG8A", //YouTube video ID
+        description: "When people turn to AI for advice, a scared person, a confused person and someone in denial each need something different. But today's models tend to give everyone the same warm, reassuring reply. The paper calls this persona collapse.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/74jZEmkUG8A/maxresdefault.jpg` // Auto-generated from YouTube
     }
     // TO ADD MORE VIDEOS:
     // Copy an entry above, paste here, and modify id / title / videoId /
