@@ -162,7 +162,7 @@ const teamMembers = [
         publications: "Research on machine learning and optimization",
     },
     {
-        id: "member9b",
+        id: "member10",
         name: "Joyce K. W. Lum",
         role: "Ph.D. Student",
         department: "Industrial-Organizational Psychology",
@@ -173,9 +173,21 @@ const teamMembers = [
         education: "M.A. in Psychology from the National University of Singapore",
         publications: ""
     },
+    {
+      id: "member11",
+        name: "Qianfeng Wen",
+        role: "MSc Student",
+        department: "Computer Science",
+        image: "images/team/qianfeng wen.jpg",
+        email: "qianfeng.wen@mail.utoronto.ca",
+        bio: "Qianfeng Wen is an MSc student in Computer Science at the University of Toronto, supervised by Professor Ashton Anderson in the Computational Social Science Lab. His research focuses on LLM post-training for reasoning, particularly reinforcement learning, on-policy distillation, and self-refinement. He has also worked on projects with LLM agents and language models for recommendation and search.",
+        research: "LLM post-training, including reinforcement learning and on-policy distillation, Language-model reasoning, self-refinement, and evaluation, LLM agents and simulated-user evaluation, Recommender systems and information retrieval.",
+        education: "MSc in Computer Science, University of Toronto, 2026–present. Supervisor: Professor Ashton Anderson | BSc in Computer Science, University of Toronto, 2022–2026. Computer Science Specialist with a focus on Artificial Intelligence.",
+        publications: "SafeGEO: Understanding Generative Engine Optimization Risks in Recommendation Agents. Accepted to EMNLP 2026, Main Conference — Oral presentation. ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement. Preprint, 2026. Natural Language Recommendation via Multimodal Item Scoring Using Gaussian Process Regression with LLM Relevance Judgments. Findings of ACL 2026. MA-DPR: Manifold-aware Distance Metrics for Dense Passage Retrieval. EMNLP 2025, Main Conference.MatrAIx: Simulating the World with 8.3 Billion Persona Agents. Preprint, 2026. Vector Scholarship in Artificial Intelligence, Vector Institute, 2026–2027. Department of Computer Science Research Award, University of Toronto, 2025.",
+    },
     // Research Staff
     {
-        id: "member10",
+        id: "member12",
         name: "Hillary Merzdorf",
         role: "Grant Manager",
         department: "Research Operations",
@@ -187,7 +199,7 @@ const teamMembers = [
         publications: "Research on educational technology and assessment development"
     },
     {
-        id: "member11",
+        id: "member13",
         name: "Rediet Shiferahu",
         role: "Communications Specialist",
         department: "Communications & Research",
