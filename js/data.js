@@ -787,6 +787,27 @@ const videos = [
         category: "Research",
         featured: true,
         thumbnail: `https://img.youtube.com/vi/74jZEmkUG8A/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+        {
+        id: "patience-age-ai",
+        title: "Patience in the Age of AI: What It Is, How It Works, and Why It Matters",
+        videoID: "xtVzQLcdnC4", //YouTube video ID
+        description: "What happens to patience when AI removes the waiting from everyday life?",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/xtVzQLcdnC4/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    
+        {
+        id: "good-character-virtues",
+        title: "What Does it Actually Mean to Have Good Character?",
+        videoID: "DakWkH87ZUE", //YouTube video ID
+        description: "We look at how researchers define character virtues, the six virtues shared across the world's major traditions, and the four this project focuses on.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/DakWkH87ZUE/maxresdefault.jpg` // Auto-generated from YouTube
     }
     // TO ADD MORE VIDEOS:
     // Copy an entry above, paste here, and modify id / title / videoId /
