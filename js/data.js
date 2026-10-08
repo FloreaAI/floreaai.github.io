@@ -771,7 +771,7 @@ const videos = [
     {
         id:"AI-character-practice",
         title: "AI Can't Give You Character. Can It Help You Practice It?",
-        videoID: "kWLYc304PAw", //YouTube video ID
+        videoId: "kWLYc304PAw", //YouTube video ID
         description: "AI can't give you character, but it might help you practice it.",
         date: "2026",
         category: "Research",
@@ -781,7 +781,7 @@ const videos = [
     {
         id: "persona-collapse-repair",
         title: "Diagnosing and Repairing Persona Collapse in LLM Advice",
-        videoID: "74jZEmkUG8A", //YouTube video ID
+        videoId: "74jZEmkUG8A", //YouTube video ID
         description: "When people turn to AI for advice, a scared person, a confused person and someone in denial each need something different. But today's models tend to give everyone the same warm, reassuring reply. The paper calls this persona collapse.",
         date: "2026",
         category: "Research",
@@ -791,7 +791,7 @@ const videos = [
         {
         id: "patience-age-ai",
         title: "Patience in the Age of AI: What It Is, How It Works, and Why It Matters",
-        videoID: "xtVzQLcdnC4", //YouTube video ID
+        videoId: "xtVzQLcdnC4", //YouTube video ID
         description: "What happens to patience when AI removes the waiting from everyday life?",
         date: "2026",
         category: "Research",
@@ -802,7 +802,7 @@ const videos = [
         {
         id: "good-character-virtues",
         title: "What Does it Actually Mean to Have Good Character?",
-        videoID: "DakWkH87ZUE", //YouTube video ID
+        videoId: "DakWkH87ZUE", //YouTube video ID
         description: "We look at how researchers define character virtues, the six virtues shared across the world's major traditions, and the four this project focuses on.",
         date: "2026",
         category: "Research",
@@ -812,7 +812,7 @@ const videos = [
     {
         id: "taxonomy-value-alignment",
         title:"AI Alignment Isn't One Problem. A Taxonomy of AI Value Alignment",
-        videoID: "dkBj-LPuT20", //YouTube video ID
+        videoId: "dkBj-LPuT20", //YouTube video ID
         description: "Most research treats 'AI value alignment' as a single technical problem. This paper argues it is really a set of distinct subproblems: solving value alignment means solving each one, and solving one does not solve the others.",
         date: "2026",
         category : "Research",
