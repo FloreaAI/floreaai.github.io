@@ -811,13 +811,13 @@ const videos = [
     },
     {
         id: "taxonomy-value-alignment",
-        title:"AI Alignment Isn't One Problem. | A Taxonomy of AI Value Alignment",
+        title:"AI Alignment Isn't One Problem. A Taxonomy of AI Value Alignment",
         videoID: "dkBj-LPuT20", //YouTube video ID
         description: "Most research treats 'AI value alignment' as a single technical problem. This paper argues it is really a set of distinct subproblems: solving value alignment means solving each one, and solving one does not solve the others.",
         date: "2026",
         category : "Research",
         featured: true,
-        thumbnail: `https://img.youtube.com/vi/dkBj-LPuT20/maxresdefault.jpg` // Auto-generated from YouTube
+        thumbnail: 'https://img.youtube.com/vi/dkBj-LPuT20/maxresdefault.jpg' // Auto-generated from YouTube
     }
     // TO ADD MORE VIDEOS:
     // Copy an entry above, paste here, and modify id / title / videoId /
