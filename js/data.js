@@ -817,7 +817,7 @@ const videos = [
         date: "2026",
         category : "Research",
         featured: true,
-        thumbnail: 'https://img.youtube.com/vi/dkBj-LPuT20/maxresdefault.jpg' // Auto-generated from YouTube
+        thumbnail: 'https://img.youtube.com/vi/dkBj-LPuT20/hqdefault.jpg' // Auto-generated from YouTube
     }
     // TO ADD MORE VIDEOS:
     // Copy an entry above, paste here, and modify id / title / videoId /
