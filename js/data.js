@@ -818,6 +818,76 @@ const videos = [
         category : "Research",
         featured: true,
         thumbnail: 'https://img.youtube.com/vi/dkBj-LPuT20/hqdefault.jpg' // Auto-generated from YouTube
+    },
+    {
+        id: "ai-worker-wellbeing",
+        title: "Aligning Artificial Intelligence with Worker Health, Well-Being, and Safety",
+        videoId: "tr8zvZYRNbs", //YouTube video ID
+        description: "AI is rapidly transforming work. These compiled commentaries look at what that means for workers' health, safety, and well-being, from technostress and job insecurity to algorithmic management and ethics.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/tr8zvZYRNbs/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "llms-optimized-wellbeing",
+        title: "Position: We Need Large Language Models Optimized For Our Well-Being",
+        videoId: "FC-oT0_ryyM", //YouTube video ID
+        description: "LLMs are mostly trained to win immediate approval. This position paper argues that helps explain sycophancy, and calls for an opt-in well-being mode trained for longer-term outcomes like sustained progress, reduced regret, and calibrated pushback.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/FC-oT0_ryyM/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "how-chatbots-are-built",
+        title: "How AI Chatbots Are Built (Part 1): A Short Guide to Large Language Models",
+        videoId: "T_PMbMDJkTw", //YouTube video ID
+        description: "A plain-language explanation of how large language models are built, from the data they learn from to the training that turns them into helpful assistants, and why those design choices matter for human flourishing.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/T_PMbMDJkTw/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "ethics-of-chatbots",
+        title: "The Ethics of AI Chatbots (Part 2): What Can Go Wrong, and How Better Design Can Help",
+        videoId: "SSUrVGCblUU", //YouTube video ID
+        description: "Are AI chatbots actually good for us? Five ethical challenges in chatbot design, from flattery and dependence to how AI may shape the way we treat each other, and what better design could look like.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/SSUrVGCblUU/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "culture-matters-ai",
+        title: "Why Culture Matters in AI",
+        videoId: "RcJi5Sjblx8", //YouTube video ID
+        description: "When you ask an AI for advice, whose values shape the answer? Why cultural understanding matters when we build AI, and how including more voices can help AI work better for more people.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/RcJi5Sjblx8/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "optimize-chatbots-virtues",
+        title: "What Should AI Chatbots Be Optimized For? Designing AI for Character Virtues",
+        videoId: "RCfbQJhdc_E", //YouTube video ID
+        description: "What feels good in the moment isn't the same as what helps us grow. What it would mean to design AI conversational agents around character virtues like patience, self-control, kindness, and generosity.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/RCfbQJhdc_E/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "self-control-age-ai",
+        title: "Self-Control in the Age of AI: Fewer Battles, Not More Willpower",
+        videoId: "g30cFXb3D0E", //YouTube video ID
+        description: "The people best at self-control aren't winning more battles with temptation. They set up their lives so they face fewer of them. What the research says, and whether AI could help build self-control instead of wearing it down.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/g30cFXb3D0E/maxresdefault.jpg` // Auto-generated from YouTube
     }
     // TO ADD MORE VIDEOS:
     // Copy an entry above, paste here, and modify id / title / videoId /
