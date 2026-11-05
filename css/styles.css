@@ -2122,6 +2122,9 @@ footer {
 .social-link-card:nth-child(4) { background: #F0F8FF; border: 1px solid #a8d4f5; }
 .social-link-card:nth-child(4) .social-icon { background: #0085ff; }
 .social-link-card:nth-child(4) .social-info h3 { color: #0085ff; }
+.social-link-card:nth-child(5) { background: #FFF0F0; border: 1px solid #f5b3b3; }
+.social-link-card:nth-child(5) .social-icon { background: #FF0000; }
+.social-link-card:nth-child(5) .social-info h3 { color: #CC0000; }
 .social-content h2 { color: #0A2218; }
 .social-content p { color: #2c3e50; }
 .chatbot-demo-section { padding: 5rem 0; background: #F0F9E8; }
