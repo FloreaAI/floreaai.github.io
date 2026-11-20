@@ -888,6 +888,56 @@ const videos = [
         category: "Research",
         featured: true,
         thumbnail: `https://img.youtube.com/vi/g30cFXb3D0E/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "generosity-happiness",
+        title: "Generosity and Happiness: What the Research Shows",
+        videoId: "x-o-8LhMZ3M", //YouTube video ID
+        description: "Does giving really make us happier? The research says yes, but not always, and how we give can matter more than how much. What generosity is, what the evidence shows, and what AI chatbots might mean for how we treat each other.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/x-o-8LhMZ3M/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "four-virtues",
+        title: "Want to Be a Better Person? Start With These 4 Virtues",
+        videoId: "1uzDnZQcbCU", //YouTube video ID
+        description: "Becoming a better person happens in small, everyday choices. The four character virtues at the heart of Florea AI's research (patience, self-control, kindness, and generosity), why they matter, and simple ways to practice each one.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/1uzDnZQcbCU/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "ai-better-habits",
+        title: "How AI Could Help You Build Better Habits",
+        videoId: "uYo-IU5yOJ8", //YouTube video ID
+        description: "Why is it so hard to stick with the habits we care about? How habits work, how long they really take to form (closer to 66 days than 21), and how AI could help.",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/uYo-IU5yOJ8/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "rlhf-open-problems",
+        title: "When AI Learns to Win Our Approval Instead of Helping Us (Casper et al., 2023)",
+        videoId: "qjK8LmDgPog", //YouTube video ID
+        description: "AI chatbots are trained to give answers people approve of. But is what we approve of always what's actually good? An explainer of \"Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback\".",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/qjK8LmDgPog/maxresdefault.jpg` // Auto-generated from YouTube
+    },
+    {
+        id: "ai-lie-thumbs-up",
+        title: "What If AI Learned to Lie for Your Thumbs Up?",
+        videoId: "pgNZ4x0IsWI", //YouTube video ID
+        description: "What happens when an AI is trained to collect as many thumbs ups as possible? An explainer of \"On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback\" (Williams et al., ICLR 2025).",
+        date: "2026",
+        category: "Research",
+        featured: true,
+        thumbnail: `https://img.youtube.com/vi/pgNZ4x0IsWI/maxresdefault.jpg` // Auto-generated from YouTube
     }
     // TO ADD MORE VIDEOS:
     // Copy an entry above, paste here, and modify id / title / videoId /
